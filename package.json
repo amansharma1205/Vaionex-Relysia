@@ -1,0 +1,35 @@
+{
+  "name": "vaionex-relysia",
+  "version": "1.0.0",
+  "description": "Vaionex Relysia web application automation ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amansharma1205/Vaionex-Relysia.git"
+  },
+  "author": "Aman",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/amansharma1205/Vaionex-Relysia/issues"
+  },
+  "homepage": "https://github.com/amansharma1205/Vaionex-Relysia#readme",
+  "dependencies": {
+    "@wdio/cli": "^7.14.1"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.15.8",
+    "@babel/preset-env": "^7.15.8",
+    "@babel/register": "^7.15.3",
+    "@wdio/allure-reporter": "^7.10.1",
+    "@wdio/junit-reporter": "^7.13.2",
+    "@wdio/local-runner": "^7.14.1",
+    "@wdio/mocha-framework": "^7.14.1",
+    "@wdio/spec-reporter": "^7.14.1",
+    "chai": "^4.3.4",
+    "chromedriver": "^94.0.0",
+    "wdio-chromedriver-service": "^7.2.2"
+  }
+}
