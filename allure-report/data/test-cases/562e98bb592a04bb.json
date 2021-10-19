@@ -1,0 +1,58 @@
+{
+  "uid" : "562e98bb592a04bb",
+  "name" : "Test 1:- Verify The home Page UI and Links",
+  "fullName" : "Verify Home Page Test cases.Test 1:- Verify The home Page UI and Links",
+  "historyId" : "bd5c8dc76a84666a9cb0360029817bc3",
+  "time" : {
+    "start" : 1634543520431,
+    "stop" : 1634543528775,
+    "duration" : 8344
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Verify Home Page Test cases"
+  }, {
+    "name" : "testClass",
+    "value" : "Verify Home Page Test cases"
+  }, {
+    "name" : "testMethod",
+    "value" : "Test 1:- Verify The home Page UI and Links"
+  }, {
+    "name" : "package",
+    "value" : "Verify Home Page Test cases"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-94.0.4606.81"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "562e98bb592a04bb.json",
+  "parameterValues" : [ "chrome-94.0.4606.81" ]
+}

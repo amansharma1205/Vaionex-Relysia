@@ -1,0 +1,41 @@
+[ {
+  "uid" : "562e98bb592a04bb",
+  "name" : "Test 1:- Verify The home Page UI and Links",
+  "time" : {
+    "start" : 1634543520431,
+    "stop" : 1634543528775,
+    "duration" : 8344
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "ad572bf782d5d0f6",
+  "name" : "Test 2:- Verify The User SignUp",
+  "time" : {
+    "start" : 1634543528776,
+    "stop" : 1634543546360,
+    "duration" : 17584
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "7b7b4bfd6ba9cb83",
+  "name" : "Test 1 Verify the wallet screen after user login",
+  "time" : {
+    "start" : 1634543572269,
+    "stop" : 1634543596390,
+    "duration" : 24121
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "fb089916fe853b3f",
+  "name" : "Verify User is able to login to Relyisa Web app ",
+  "time" : {
+    "start" : 1634543551970,
+    "stop" : 1634543566759,
+    "duration" : 14789
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

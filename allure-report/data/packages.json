@@ -1,0 +1,69 @@
+{
+  "uid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+  "name" : "packages",
+  "children" : [ {
+    "name" : "Verify Home Page Test cases",
+    "children" : [ {
+      "name" : "Test 1:- Verify The home Page UI and Links",
+      "uid" : "562e98bb592a04bb",
+      "parentUid" : "1d389ee3ea2b9e13dcbb6a93b5f7b7d6",
+      "status" : "passed",
+      "time" : {
+        "start" : 1634543520431,
+        "stop" : 1634543528775,
+        "duration" : 8344
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-94.0.4606.81" ]
+    }, {
+      "name" : "Test 2:- Verify The User SignUp",
+      "uid" : "ad572bf782d5d0f6",
+      "parentUid" : "1d389ee3ea2b9e13dcbb6a93b5f7b7d6",
+      "status" : "passed",
+      "time" : {
+        "start" : 1634543528776,
+        "stop" : 1634543546360,
+        "duration" : 17584
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-94.0.4606.81" ]
+    } ],
+    "uid" : "1d389ee3ea2b9e13dcbb6a93b5f7b7d6"
+  }, {
+    "name" : "Login Page Test Cases ",
+    "children" : [ {
+      "name" : "Verify User is able to login to Relyisa Web app ",
+      "uid" : "fb089916fe853b3f",
+      "parentUid" : "3112f9a1884f9e35b3c5a1ea251f71ec",
+      "status" : "passed",
+      "time" : {
+        "start" : 1634543551970,
+        "stop" : 1634543566759,
+        "duration" : 14789
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-94.0.4606.81" ]
+    } ],
+    "uid" : "3112f9a1884f9e35b3c5a1ea251f71ec"
+  }, {
+    "name" : "Verify wallet Screen",
+    "children" : [ {
+      "name" : "Test 1 Verify the wallet screen after user login",
+      "uid" : "7b7b4bfd6ba9cb83",
+      "parentUid" : "55911b331be9b520b6e166a0266757b5",
+      "status" : "passed",
+      "time" : {
+        "start" : 1634543572269,
+        "stop" : 1634543596390,
+        "duration" : 24121
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-94.0.4606.81" ]
+    } ],
+    "uid" : "55911b331be9b520b6e166a0266757b5"
+  } ]
+}

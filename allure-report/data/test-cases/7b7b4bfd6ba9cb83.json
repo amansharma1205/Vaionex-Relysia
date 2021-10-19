@@ -1,0 +1,58 @@
+{
+  "uid" : "7b7b4bfd6ba9cb83",
+  "name" : "Test 1 Verify the wallet screen after user login",
+  "fullName" : "Verify wallet Screen.Test 1 Verify the wallet screen after user login",
+  "historyId" : "f9f95b9c77b8351f6bb16fe61cd0eee5",
+  "time" : {
+    "start" : 1634543572269,
+    "stop" : 1634543596390,
+    "duration" : 24121
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-2"
+  }, {
+    "name" : "suite",
+    "value" : "Verify wallet Screen"
+  }, {
+    "name" : "testClass",
+    "value" : "Verify wallet Screen"
+  }, {
+    "name" : "testMethod",
+    "value" : "Test 1 Verify the wallet screen after user login"
+  }, {
+    "name" : "package",
+    "value" : "Verify wallet Screen"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-94.0.4606.81"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "7b7b4bfd6ba9cb83.json",
+  "parameterValues" : [ "chrome-94.0.4606.81" ]
+}

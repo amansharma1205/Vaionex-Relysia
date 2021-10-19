@@ -4,7 +4,7 @@
   "description": "Vaionex Relysia web application automation ",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "wdio"
   },
   "repository": {
     "type": "git",
@@ -17,7 +17,8 @@
   },
   "homepage": "https://github.com/amansharma1205/Vaionex-Relysia#readme",
   "dependencies": {
-    "@wdio/cli": "^7.14.1"
+    "@wdio/cli": "^7.14.1",
+    "allure-commandline": "^2.13.8"
   },
   "devDependencies": {
     "@babel/core": "^7.15.8",

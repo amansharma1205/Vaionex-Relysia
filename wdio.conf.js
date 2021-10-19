@@ -2,9 +2,9 @@ var baseUrl;
 var retryCount;
 var generateReport=1;
 if(process.env.SERVER === 'prod') {
-    baseUrl = 'https://prod.satolearn.com/';
+    baseUrl = 'https://www.relysia.com/';
     } else {
-        baseUrl= "https://satolearn.com/";
+        baseUrl= "https://www.relysia.com/";
     }
 
     var timeout = process.env.DEBUG ? 99999999 : 90000;
@@ -68,10 +68,10 @@ exports.config = {
         maxInstances: 1,
         //
         browserName: 'chrome',
-        acceptInsecureCerts: true,
-        'goog:chromeOptions': { 
-            args: ["--headless", "--disable-gpu","--window-size=1440,735"]
-        }
+        acceptInsecureCerts: true
+       // 'goog:chromeOptions': { 
+         //   args: ["--headless", "--disable-gpu","--window-size=1440,735"]
+       // }
         
         // If outputDir is provided WebdriverIO can capture driver session logs
         // it is possible to configure which logTypes to include/exclude.

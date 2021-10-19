@@ -1,0 +1,57 @@
+{
+  "uid" : "b1a8273437954620fa374b796ffaacdd",
+  "name" : "behaviors",
+  "children" : [ {
+    "name" : "Test 1:- Verify The home Page UI and Links",
+    "uid" : "562e98bb592a04bb",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1634543520431,
+      "stop" : 1634543528775,
+      "duration" : 8344
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "chrome-94.0.4606.81" ]
+  }, {
+    "name" : "Test 2:- Verify The User SignUp",
+    "uid" : "ad572bf782d5d0f6",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1634543528776,
+      "stop" : 1634543546360,
+      "duration" : 17584
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "chrome-94.0.4606.81" ]
+  }, {
+    "name" : "Verify User is able to login to Relyisa Web app ",
+    "uid" : "fb089916fe853b3f",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1634543551970,
+      "stop" : 1634543566759,
+      "duration" : 14789
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "chrome-94.0.4606.81" ]
+  }, {
+    "name" : "Test 1 Verify the wallet screen after user login",
+    "uid" : "7b7b4bfd6ba9cb83",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1634543572269,
+      "stop" : 1634543596390,
+      "duration" : 24121
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "chrome-94.0.4606.81" ]
+  } ]
+}

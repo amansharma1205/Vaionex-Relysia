@@ -1,0 +1,5 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Mon Oct 18 13:22:00 IST 2021","Mon Oct 18 13:22:08 IST 2021","8344","","Verify Home Page Test cases","","Verify Home Page Test cases","Test 1:- Verify The home Page UI and Links","Test 1:- Verify The home Page UI and Links",""
+"passed","Mon Oct 18 13:22:08 IST 2021","Mon Oct 18 13:22:26 IST 2021","17584","","Verify Home Page Test cases","","Verify Home Page Test cases","Test 2:- Verify The User SignUp","Test 2:- Verify The User SignUp",""
+"passed","Mon Oct 18 13:22:52 IST 2021","Mon Oct 18 13:23:16 IST 2021","24121","","Verify wallet Screen","","Verify wallet Screen","Test 1 Verify the wallet screen after user login","Test 1 Verify the wallet screen after user login",""
+"passed","Mon Oct 18 13:22:31 IST 2021","Mon Oct 18 13:22:46 IST 2021","14789","","Login Page Test Cases ","","Login Page Test Cases ","Verify User is able to login to Relyisa Web app ","Verify User is able to login to Relyisa Web app ",""
